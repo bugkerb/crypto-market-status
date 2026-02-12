@@ -1,0 +1,18 @@
+{
+  "name": "crypto-market-status",
+  "version": "1.0.0",
+  "description": "One-Page Website to track cryptocurrency prices and market status",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'No build step needed - static HTML/CSS/JS'",
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "crypto-tracker",
+    "bitcoin-price",
+    "cryptocurrency-market"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
